@@ -27,4 +27,18 @@ console.log (accountbalance);
 accountbalance * 1.02; // *1.02 = 132.6
 console.log (accountbalance);
 accountbalance /=3; // /3 = 44.2
+console.log (accountbalance);
+
+// Task 4 String Data Type //
+let CustomerName = 'shinji'; // customer name
+let WellcomeMessage = 'Hello!!' + CustomerName + "we greatly value as a customer and hope you return!!" // welcome message 
+console.log = (WellcomeMessage);
+
+//  Task 5  Boolean Data Type //
+let isloggedin = true;
+if (isloggedin)
+     {console.log  ("wellcome!" + employeeName)
+     } 
+else { "please log in."}
+
 

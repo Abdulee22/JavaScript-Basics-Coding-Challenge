@@ -17,3 +17,14 @@ var isAvailable = true;
 console.log(typeof ProductName);
 console.log (typeof ProductPrice);
 console.log (typeof isAvailable);
+
+// Task 3 number data types // 
+let accountbalance = 100; // account balance
+accountbalance += 50;  // + 50 = 150
+console.log (accountbalance);
+accountbalance -= 20; // -20 = 130
+console.log (accountbalance);
+accountbalance * 1.02; // *1.02 = 132.6
+console.log (accountbalance);
+accountbalance /=3; // /3 = 44.2
+

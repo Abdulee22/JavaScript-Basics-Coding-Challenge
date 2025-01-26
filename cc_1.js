@@ -5,18 +5,18 @@ let employeeName = "Ichigo Kurasaki"; // the employee name
 const employeeID = 10000;  // the employee id
 var isActive = true;   // employee status in the company 
 
-console.log( typeof employeeName);
-console.log (typeof employeeID);
-console.log( typeof isActive);
+console.log("employee Name:", employeeName, typeof employeeName);
+console.log ("employee ID:", employeeID,typeof employeeID);
+console.log("is Active:", isActive, typeof isActive);
 
 // Task 2 primitive data types //
 let ProductName = "ichigo hallow mask"; //product name
 const ProductPrice = 15.00; // product price
 var isAvailable = true;
 
-console.log(typeof ProductName);
-console.log (typeof ProductPrice);
-console.log (typeof isAvailable);
+console.log("product Name:",ProductName, typeof ProductName);
+console.log ("product Price", ProductPrice, typeof ProductPrice);
+console.log ("is Avaliable", isAvailable, typeof isAvailable);
 
 // Task 3 number data types // 
 let accountbalance = 100; // account balance
@@ -32,7 +32,7 @@ console.log (accountbalance);
 // Task 4 String Data Type //
 let CustomerName = 'shinji'; // customer name
 let WellcomeMessage = 'Hello!!' + CustomerName + "we greatly value as a customer and hope you return!!" // welcome message 
-console.log = (WellcomeMessage);
+console.log (WellcomeMessage);
 
 //  Task 5  Boolean Data Type //
 let isloggedin = true;
